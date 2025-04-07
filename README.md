@@ -50,8 +50,8 @@ My passion lies in building **automation solutions** 🤖 and driving **data-dri
 
 Feel free to reach out for collaboration, discussion, or just to say hi!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
-[![Email](https://img.shields.io/badge/Email-DarkRed?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))  
+[![Email](https://img.shields.io/badge/Email-DarkRed?logo=gmail&logoColor=white)](ankiter.rathi18@gmail.com)
 
 ---
 
